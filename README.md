@@ -8,7 +8,7 @@
 - [Papers & Talks](#papers--talks)
 - [Courses](#courses)
 - [Software](#software)
-    + [Tools & libs](#tools---libs)
+    + [Tools & libs](#tools--libs)
     + [License management solutions](#license-management-solutions)
 - [Non-profit foundations](#non-profit-foundations)
 - [Patents vs OSS Licensing](#patents-vs-oss-licensing)
