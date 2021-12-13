@@ -66,6 +66,15 @@
 - [go-license-detector](https://github.com/go-enry/go-license-detector) - Reliable project licenses detector
 - [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies
 - [liccheck](https://github.com/dhatim/python-license-check) - Check python packages from requirement.txt and report issues
+- [pylic](https://github.com/ubersan/pylic) - Python license checker, reads pylic configuration in pyproject.toml and checks licenses of installed packages recursively.
+- [pip-licenses](https://github.com/raimon49/pip-licenses) - Dump the software license list of Python packages installed with pip.
+- [License Finder](https://github.com/pivotal/LicenseFinder) - LicenseFinder works with your package managers to find dependencies, detect the licenses of the packages in them, compare those licenses against a user-defined list of permitted licenses, and give you an actionable exception report.
+- [LicenseCheck](https://github.com/FHPythonUtils/LicenseCheck) - Output the licences used by dependencies and check if these are compatible with the project license.
+- [pip-license-checker](https://github.com/pilosus/pip-license-checker) - License compliance tool. Detect license names and types for Python PyPI packages. Identify license types for given license names obtained by third-party tools. Great coverage of free/libre and open source licenses of all types: public domain, permissive, copyleft.
+- [action-pip-license-checker](https://github.com/pilosus/action-pip-license-checker) - GitHub Action for license compliance: Python, JavaScript, iOS, Android and more.
+- [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) - A tool that walks your Python project's requirements and gathers the third party licenses for you.
+- [NPM License Checker](https://github.com/davglass/license-checker) - Check NPM package licenses
+- [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) - Automated license checker for validating project dependencies for compatible Apache2 licenses.
 
 ### License management solutions
 
