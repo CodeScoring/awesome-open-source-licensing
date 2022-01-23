@@ -5,6 +5,7 @@
 - [Open Source Basics](#open-source-basics)
 - [To bookmarks](#to-bookmarks)
 - [FAQs](#faqs)
+- [Case Study](#case-study)
 - [Papers & Talks](#papers--talks)
 - [Courses](#courses)
 - [Software](#software)
@@ -41,6 +42,13 @@
 - [Apache License FAQ](https://www.apache.org/foundation/license-faq.html)
 - [Eclipse Public License FAQ](http://www.eclipse.org/legal/eplfaq.php)
 - [Mozilla Public License FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+
+## Case Study
+
+- [Creative Commons legal database](https://legaldb.creativecommons.org/)
+- [Legal issues for the use of Free and Open Source Software in Government, 2005](http://www.mulr.com.au/issues/29_2/29_2_3.pdf)
+- [Legal Issues Relating to Free and Open Source Software, 2003](https://eprints.qut.edu.au/13673/1/open_source_book.pdf)
+- [A Primer on Open Source Licensing Legal Issues: Copyright, Copyleft and Copyfuture, 2001](https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1393&context=plr)
 
 ## Papers & Talks
 
