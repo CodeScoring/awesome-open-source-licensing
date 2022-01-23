@@ -115,6 +115,7 @@
  - [ASF about license compliance](https://www.apache.org/legal/resolved.html)
  - [Creative Commons about license compliance](https://creativecommons.org/faq/#general-license-compliance)
  - [OSI: Resources for Open Source Compliance](https://opensource.org/node/539)
+ - [Linux Foundation: Open Source Compliance in the Enterprise](https://www.linuxfoundation.org/tools/open-source-compliance-in-the-enterprise/)
  - [Open Source License Compliance Handbook](https://www.finos.org/open-source-license-compliance-handbook-download-page)
 
 ## Patents vs OSS Licensing
