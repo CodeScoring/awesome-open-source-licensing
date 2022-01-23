@@ -143,6 +143,7 @@
 - [Pamela Chestek](https://propertyintangible.com/author/pam/)
 - [Kyle Mitchell](https://writing.kemitchell.com/)
 - [Kate Downing](https://katedowninglaw.com/blog/)
+- [Jilayne Lovejoy](https://twitter.com/jilaynelovejoy)
 
 ## Just for fun
 
