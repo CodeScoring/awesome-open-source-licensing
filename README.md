@@ -11,6 +11,7 @@
     + [Tools & libs](#tools--libs)
     + [License management solutions](#license-management-solutions)
 - [Non-profit foundations](#non-profit-foundations)
+- [License compliance](#license-compliance)
 - [Patents vs OSS Licensing](#patents-vs-oss-licensing)
 - [Popular questions in community](#popular-questions-in-community)
 - [Licensing role in Due diligence](#licensing-role-in-due-diligence)
@@ -107,6 +108,14 @@
 - [Fintech Open Source Foundation](https://www.finos.org/)
 - [Blue Oak Council](https://blueoakcouncil.org/)
 - [Software Freedom Conservancy](https://sfconservancy.org/)
+
+## License compliance
+
+ - [GNU about license compliance](https://www.gnu.org/licenses/license-list.html)
+ - [ASF about license compliance](https://www.apache.org/legal/resolved.html)
+ - [Creative Commons about license compliance](https://creativecommons.org/faq/#general-license-compliance)
+ - [OSI: Resources for Open Source Compliance](https://opensource.org/node/539)
+ - [Open Source License Compliance Handbook](https://www.finos.org/open-source-license-compliance-handbook-download-page)
 
 ## Patents vs OSS Licensing
 
