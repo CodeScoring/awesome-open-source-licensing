@@ -57,6 +57,7 @@
 ## Courses
 
 - [Open Source Software Licensing Basics for Corporate Users](https://www.youtube.com/watch?v=gF4b1TA5Q5w&list=PLAVikl6VpxPeBtplWOnfzNmiUz529AYAy) — Heather Meeker
+- [OSS Licenses and Legal Issues](https://www.coursera.org/lecture/open-source-software-development-methods/oss-licenses-and-legal-issues-o0Wcd) — The Linux Foundation
 
 ## Software
 
