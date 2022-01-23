@@ -104,6 +104,7 @@
 - [The Python Foundation](https://www.python.org/psf/)
 - [The Linux Foundation](https://www.linuxfoundation.org/)
 - [Creative Commons](https://creativecommons.org/)
+- [Fintech Open Source Foundation](https://www.finos.org/)
 - [Blue Oak Council](https://blueoakcouncil.org/)
 - [Software Freedom Conservancy](https://sfconservancy.org/)
 
