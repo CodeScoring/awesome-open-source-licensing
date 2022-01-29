@@ -120,7 +120,8 @@
 
 ## License compliance
 
- - [GNU about license compliance](https://www.gnu.org/licenses/license-list.html)
+ - [GNU license compliance with Others](https://www.gnu.org/licenses/license-list.html)
+ - [GNU about License Compatibility and Relicensing](https://www.gnu.org/licenses/license-compatibility.html)
  - [ASF about license compliance](https://www.apache.org/legal/resolved.html)
  - [Creative Commons about license compliance](https://creativecommons.org/faq/#general-license-compliance)
  - [OSI: Resources for Open Source Compliance](https://opensource.org/node/539)
