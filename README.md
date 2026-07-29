@@ -85,6 +85,7 @@
 - [python-third-party-license-file-generator](https://github.com/ftpsolutions/python-third-party-license-file-generator) - A tool that walks your Python project's requirements and gathers the third party licenses for you.
 - [NPM License Checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) - Automated license checker for validating project dependencies for compatible Apache2 licenses.
+- [license-radar](https://pypi.org/project/license-radar/) - CLI that scans Python and npm dependency manifests (requirements.txt, pyproject.toml, setup.cfg, Pipfile, package.json) and fails CI when a GPL/AGPL/SSPL or unknown-license dependency shows up. Offline by default; --online queries PyPI/npm. Also a pre-commit hook.
 
 ### License management solutions
 
