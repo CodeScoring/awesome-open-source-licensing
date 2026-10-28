@@ -97,6 +97,7 @@
 - [Apache2 License Checker](https://github.com/bbc/apache2-license-checker) - Automated license checker for validating project dependencies for compatible Apache2 licenses.
 - [license-radar](https://pypi.org/project/license-radar/) - CLI that scans Python and npm dependency manifests (requirements.txt, pyproject.toml, setup.cfg, Pipfile, package.json) and fails CI when a GPL/AGPL/SSPL or unknown-license dependency shows up. Offline by default; --online queries PyPI/npm. Also a pre-commit hook.
 - [licenseproof](https://github.com/thrillhouse34/licenseproof) - CLI that scans Node (npm, pnpm, Yarn) and Python (uv, Poetry, pip) dependency trees in one report, resolves each package's license against vendored SPDX data, and flags strong-copyleft, non-commercial-only and unidentified licenses that could conflict with your project's license. Offline, no account; `--fail-on` sets the CI exit code and it can write a CycloneDX SBOM. The scan is free; it is source-available (Elastic-2.0), not OSI open source.
+- [licensegate](https://licensegate.org/?src=ls-cs) - Offline licence gate for npm dependencies: resolves SPDX expressions and LICENSE texts, judges each licence by how you ship (SaaS, distributed app, library or internal) and fails CI on what blocks. Writes CycloneDX and SPDX SBOMs and a third-party notices file, and also runs as an MCP server. Zero dependencies, MIT; installed with npx from licensegate.org.
 
 ### License management solutions
 
